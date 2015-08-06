@@ -16,6 +16,7 @@ var b = [
 
 merge(a, b, 'a');
 // output = [ {id: 2, b: 2, c: 1} ];
+// this is an alias to merge.left
 
 merge.left(a, b, 'a');
 // output = [ {id: 2, b: 2, c: 1} ];
