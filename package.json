@@ -1,6 +1,6 @@
 {
   "name": "object-array-merge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Merges Object Arrays based on an object key, A.K.A: Tom’s Merge",
   "main": "index.js",
   "scripts": {
